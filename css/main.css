@@ -76,6 +76,9 @@
 
 /* THIS IS THE CHEMISTRY */
 
+#Chemistry {
+	border-bottom: 2px solid black;
+}
 #Chemistry h1 {
 	text-align: center;
 	padding-top: 15px;
@@ -209,4 +212,52 @@
 	font-weight: bold;
 	color: #e5e5e5;
 	text-shadow: 1px 1px 1px black;
+}
+
+/* THIS IS THE LAWS */
+
+#Laws {
+	border-bottom: 2px solid black;
+	margin-top: 35px;
+}
+#Laws h1 {
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 35px;
+}
+#Laws h2 {
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 15px;
+}
+#bioLaws {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+#low {
+	color: #FFEE55;
+}
+#med {
+	color: #FFAA55;
+}
+#high {
+	color: #FF8855;
+}
+#Laws2 h3 {
+	margin-left: 55px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+	border-top: 2px solid black;
+	width: 85%;
+	margin-top: 25px;
+}
+#law {
+	font-weight: bold;
+	padding-left: 100px;
+	padding-top: 15px;
 }
